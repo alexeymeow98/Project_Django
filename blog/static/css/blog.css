@@ -1,0 +1,51 @@
+.page-header {
+    background-color: #1094D5;
+    margin-top: 0;
+    padding: 4;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    margin-left: 40;
+    font-size: 40pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 60px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.date {
+    color: #828282;
+}
+
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #1094D5;
+    float: right;
+    font-size: 50pt;
+    margin-right: 50px;
+    margin-top: 100px;
+}
+
+.post {
+    margin-bottom: 50px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: #000000;
+}
+
+.about_n {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 4rem;
+
+}
